@@ -128,6 +128,7 @@
         "brightnessctl",
         "fish",
         "git",
+        "gvfs",
         "kitty",
         "lightdm-gtk-greeter",
         "lxappearance-gtk3",
