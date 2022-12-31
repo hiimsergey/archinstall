@@ -130,6 +130,7 @@
         "git",
         "kitty",
         "lightdm-gtk-greeter",
+        "lxappearance-gtk3",
         "maim",
         "man-db",
         "neovide",
