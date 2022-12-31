@@ -9,5 +9,5 @@ picom-jonaburg-git \
 prismlauncher-bin \
 timeshift-bin \
 ttf-whatsapp-emoji \
-ungoogled-chromium \
+ungoogled-chromium-bin \
 xcursor-simp1e-gruvbox-dark
