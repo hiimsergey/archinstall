@@ -125,7 +125,7 @@
     "offline": false,
     "packages": [
         "alsa-utils",
-        "brightnessctl,
+        "brightnessctl",
         "fish",
         "git",
         "kitty",
